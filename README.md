@@ -1,4 +1,4 @@
-<img src="./Assets/logoFull.png">
+<img src="./Assets/logoFullFixed.png">
 
 # Nizz - Manage your Projects
 A app that reminds you about your projects and allows you to save them for later. Based on [Milanote](https://milanote.com).
