@@ -15,4 +15,15 @@ Nizz allows you to add projects that you're working on and manage things to give
 Nizz is only available on Android and Desktop (Depending). Download them from the [releases](https://github.com/Toastyzz0/NizzProjects/releases) page. Note that if there's nothing there, its not done yet so be patient until it's done. >:(
 
 ## How to Clone:
-Honestly, I have no idea how to clone things on GitHub so just wait until I'm finished with the project or, figure it out yourself.
+Go to your command prompt and type:
+
+```
+mkdir nizzprojects && cd nizzprojects
+```
+Then, type:
+
+```
+git clone https://github.com/Toastyzz0/NizzProjects.git
+```
+
+Then that's all I know. Bye!
